@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900i&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;600;700;800&display=swap");
+
+
+.wrapper {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  flex-direction: column;
+}
+
+
+.header {
+  width: 100%;
+  background: radial-gradient(circle at 70%, #bdbdbd -60%, #283593 100%);
+   padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.logo {
+  padding-left:39%;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "Montserrat Alternates", sans-serif;
+  color: rgb(255, 255, 255);
+}
+.link {
+  color: #FFF;
+}
+.link:hover {
+   color: rgb(231, 231, 231)
+}
+.searchproduct {
+  border: 2px solid #4853a1;
+
+  border-radius: 5px ;
+  outline: none;
+  color: #9DBFAF;
+  outline: 0;
+  background-color: #f5f5f5;
+  width: 400px;
+  margin: auto;
+  margin-top: 30px;
+}
+.searchproduct:focus{
+  color: #283593
+}
+.searchproduct:hover,
+.searchproduct:focus {
+  border: 3.5px solid #283593;
+  background-color: white;
+}
+.containerBg {
+  width: 100%;
+  padding: 24;
+  justify-content: center;
+  display: flex;
+  
+}
+
+.containerProducts {
+  max-width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24;
+  margin-top: 50px;
+  justify-content: center;
+  
+}
+
+.wrapperCartIcon {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #f5f5f5;
+  padding-right: 1%;
+}

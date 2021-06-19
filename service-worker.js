@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Waffarly/precache-manifest.9d6a068e7cd1cb75e88ad39b4713223a.js"
+  "/Waffarly/precache-manifest.af83abf1c6db921766170fc41c7cb5ac.js"
 );
 
 self.addEventListener('message', (event) => {

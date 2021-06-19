@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75383b11faaf7ac7e2217cd8d2e846e3",
+    "revision": "bfff76dda00fe54c0069e298b17a944d",
     "url": "/Waffarly/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Waffarly/static/css/2.f4d1a5a3.chunk.css"
   },
   {
-    "revision": "736ed8e887a76b032eac",
+    "revision": "585da623c164727d9049",
     "url": "/Waffarly/static/css/main.2e87c299.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Waffarly/static/js/2.d22daccf.chunk.js"
   },
   {
-    "revision": "736ed8e887a76b032eac",
-    "url": "/Waffarly/static/js/main.b54b9a0b.chunk.js"
+    "revision": "585da623c164727d9049",
+    "url": "/Waffarly/static/js/main.2e62e55a.chunk.js"
   },
   {
     "revision": "1c55d29abb5f864a3092",

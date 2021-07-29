@@ -10,7 +10,7 @@ import NotFound from './NotFound/NotFound'
 
 
 const Routes = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch>
      < Route exact path="/" component={Welcome}/>
       <Route exact path="/producthome" component={Dashboard} />
